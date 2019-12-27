@@ -1,0 +1,54 @@
+.logo_signin{
+    list-style-type: none;
+}
+.header{
+    display:inline;
+    float:right;
+    background-color: red;
+    padding:8px;
+    border:2px solid red;
+    border-radius: 5px;
+}
+h3{
+    color:red;
+    padding:8px 0px 0px;
+    font-weight: bold;
+    font-size:25px;
+    font-family: 'Netflix Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+#sign_in{
+    color:white;
+    text-decoration: none;
+    font:16px "Netflix sans", "Helvetica neue",Helvetica, Arial, sans-serif;
+}
+.main{ 
+    text-align:center;
+    margin-top:150px;
+}
+.try-button-container{
+    text-align:center;
+    margin:60px;
+}
+.try-button{ 
+    background-color:red;
+    text-decoration:none;
+    padding:5px;
+    border:2px solid red;
+    border-radius:3px;
+    color:white;
+    font:26px "Netflix sans", "Helvetica neue",Helvetica, Arial, sans-serif;
+}
+h1{
+    font-size:50px;
+    font-family : 'Netflix sans', 'Helvetica neue',Helvetica, Arial, sans-serif;
+    font-weight:bold;
+    color:white;
+}
+h4{
+    font:26px "Netflix sans", "Helvetica neue",Helvetica, Arial, sans-serif;
+}
+body{
+    background-color:black;
+    background:url(https://i.ibb.co/vXqDmnh/background.jpg);
+    background-repeat: repeat;
+}
